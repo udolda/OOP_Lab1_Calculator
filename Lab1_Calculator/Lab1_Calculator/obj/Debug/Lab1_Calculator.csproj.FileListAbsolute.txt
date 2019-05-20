@@ -1,0 +1,10 @@
+D:\UDOLDA\ВятГУ\ООП\Lab1\Lab1_Calculator\bin\Debug\Lab1_Calculator.exe.config
+D:\UDOLDA\ВятГУ\ООП\Lab1\Lab1_Calculator\bin\Debug\Lab1_Calculator.exe
+D:\UDOLDA\ВятГУ\ООП\Lab1\Lab1_Calculator\bin\Debug\Lab1_Calculator.pdb
+D:\UDOLDA\ВятГУ\ООП\Lab1\Lab1_Calculator\obj\Debug\Lab1_Calculator.Form1.resources
+D:\UDOLDA\ВятГУ\ООП\Lab1\Lab1_Calculator\obj\Debug\Lab1_Calculator.Properties.Resources.resources
+D:\UDOLDA\ВятГУ\ООП\Lab1\Lab1_Calculator\obj\Debug\Lab1_Calculator.csproj.GenerateResource.cache
+D:\UDOLDA\ВятГУ\ООП\Lab1\Lab1_Calculator\obj\Debug\Lab1_Calculator.csproj.CoreCompileInputs.cache
+D:\UDOLDA\ВятГУ\ООП\Lab1\Lab1_Calculator\obj\Debug\Lab1_Calculator.exe
+D:\UDOLDA\ВятГУ\ООП\Lab1\Lab1_Calculator\obj\Debug\Lab1_Calculator.pdb
+D:\UDOLDA\ВятГУ\ООП\Lab1\Lab1_Calculator\obj\Debug\Lab1_Calculator.csprojAssemblyReference.cache
